@@ -216,7 +216,7 @@ color: #353A3D;
 .parallax{
     position: relative;
      width: 1900px;
-     margin: 0 auto;
+     margin: 40px auto 0 auto;
      padding: 0;
 }
 .parallax h3{
